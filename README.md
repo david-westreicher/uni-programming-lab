@@ -1,6 +1,6 @@
 # soccervis
 
-![Screenshot of soccervis](/imgs/soccervis.jpg?raw=true "soccervis")
+![Screenshot of soccervis](/soccervis.jpg?raw=true "soccervis")
 
 Programming Lab: Innovative Interaktion, Visualisierung und Analyse
 
