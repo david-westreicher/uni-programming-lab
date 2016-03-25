@@ -1,4 +1,7 @@
-# uni-programming-lab
+# soccervis
+
+![Screenshot of soccervis](/imgs/soccervis.jpg?raw=true "soccervis")
+
 Programming Lab: Innovative Interaktion, Visualisierung und Analyse
 
 To run the frontend:
